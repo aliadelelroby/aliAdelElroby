@@ -1,5 +1,5 @@
-## MY Profile
+# MY Profile 📌
 
-## Bio 😇
+## About me 🍀
 
-Hello there!, I'm ali adel elroby, I'm a front end developer
+**Hi all, I'm ali adel elroby, I'm a front end developer, I love programming so much ❤️**
